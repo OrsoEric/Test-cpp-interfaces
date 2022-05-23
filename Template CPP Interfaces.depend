@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1646290890 source:c:\data\project\project programming\project classes\template cpp interfaces\main.cpp
+	<iostream>
+	"shape_interface.h"
+	"square.hpp"
+
+1646307003 c:\data\project\project programming\project classes\template cpp interfaces\shape_interface.h
+	<iostream>
+
+1646306990 c:\data\project\project programming\project classes\template cpp interfaces\square.hpp
+	"shape_interface.h"
+
+1653288286 source:c:\data\project\project programming\cpp examples\template cpp interfaces\main.cpp
+	<iostream>
+	"shape_interface.h"
+	"square.hpp"
+	"circle.hpp"
+
+1646328008 c:\data\project\project programming\cpp examples\template cpp interfaces\shape_interface.h
+	<iostream>
+
+1646328018 c:\data\project\project programming\cpp examples\template cpp interfaces\square.hpp
+	"shape_interface.h"
+
+1653287137 c:\data\project\project programming\cpp examples\template cpp interfaces\circle.hpp
+	"shape_interface.h"
+
